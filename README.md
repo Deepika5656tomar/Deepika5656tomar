@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React native**
 
-- 👨‍💻 All of my projects are available at [http://deepika-tomar-portfolio.netlify.app/](http://deepika-tomar-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](http://deepika-tomar-portfolio.netlify.app/)
 
 - 📫 How to reach me **tomardeepika2610@gmail.com**
 </br>
@@ -17,7 +17,7 @@
 <a href="https://linkedin.com/in/deepika-tomar-0ba3a8257/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/deepika-tomar-0ba3a8257/" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/tomardeepika26" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/tomardeepika26" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/u/deepika_2610/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/deepika_2610/" height="30" width="40" /></a>
-<a href="https://discord.com/channels/@me" target="blank"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" align="center" />
+<a href="https://discord.com/deepika3010" target="blank"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" align="center" />
 </p>
 </br>
 <h3 align="left">Languages and Tools:</h3>
